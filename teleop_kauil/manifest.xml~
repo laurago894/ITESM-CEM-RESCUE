@@ -1,0 +1,19 @@
+<package>
+  <description brief="teleop_kauil">
+
+     teleop_kauil
+
+  </description>
+  <author>laura</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/teleop_kauil</url>
+  <depend package="roscpp"/>
+  <depend package="joy"/>
+  <depend package="MD03ARIA"/>
+  <depend package="nav_msgs"/>
+  <depend package="std_msgs"/>
+
+</package>
+
+
